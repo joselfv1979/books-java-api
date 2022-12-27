@@ -1,6 +1,6 @@
 # books-java-api
 
-## Bookstore management api
+## Book store management api
 
 * Java
 * Spring Boot
